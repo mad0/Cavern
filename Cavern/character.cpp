@@ -12,7 +12,7 @@ CCharacter::~CCharacter() {
 }
 
 std::string CCharacter::getName(){
-	std::cout << "PLAYER\n";
+	//std::cout << "PLAYER\n";
 	return name;
 }
 
